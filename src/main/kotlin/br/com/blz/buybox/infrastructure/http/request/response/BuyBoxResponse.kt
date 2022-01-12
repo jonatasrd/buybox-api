@@ -1,4 +1,4 @@
-package br.com.blz.buybox.infraestructure.http.request.response
+package br.com.blz.buybox.infrastructure.http.request.response
 
 import br.com.blz.buybox.domain.Merchant
 import br.com.blz.buybox.domain.SearchContext

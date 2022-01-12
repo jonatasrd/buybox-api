@@ -1,4 +1,4 @@
-package br.com.blz.buybox.mock
+package br.com.blz.buybox.infrastructure.db.mock
 
 import br.com.blz.buybox.domain.PriceSpecification
 import java.math.BigDecimal

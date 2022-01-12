@@ -1,5 +1,5 @@
 package br.com.blz.buybox.domain
 
 data class BuyBox(
-    val merchants: List<Merchant> = emptyList()
+    var merchants: List<Merchant> = emptyList()
 )

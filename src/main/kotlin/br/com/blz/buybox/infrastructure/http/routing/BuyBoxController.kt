@@ -1,7 +1,7 @@
-package br.com.blz.buybox.infraestructure.http.routing
+package br.com.blz.buybox.infrastructure.http.routing
 
 import br.com.blz.buybox.component.SearchBuyBox
-import br.com.blz.buybox.infraestructure.http.request.response.toBuyBoxResponse
+import br.com.blz.buybox.infrastructure.http.request.response.toBuyBoxResponse
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RequestMapping

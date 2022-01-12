@@ -15,3 +15,4 @@ internal fun Advertisement.toMerchant() = Merchant(
 
 internal fun Set<Advertisement>.toMerchants() = this.map { it.toMerchant() }
 
+
