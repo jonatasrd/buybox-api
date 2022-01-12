@@ -4,6 +4,6 @@ import br.com.blz.buybox.domain.SellerScore
 
 interface SellerScoreRepository {
 
-    fun getScoresFor(names: Set<String>) : Set<SellerScore>
+    fun getScoresFor(names: Set<String>): Set<SellerScore>
 
 }

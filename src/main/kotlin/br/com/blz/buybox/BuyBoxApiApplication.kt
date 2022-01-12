@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class BuyBoxApiApplication
 
 fun main(args: Array<String>) {
-	runApplication<BuyBoxApiApplication>(*args)
+    runApplication<BuyBoxApiApplication>(*args)
 }

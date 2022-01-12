@@ -35,7 +35,6 @@ class SortBySellerScore(
             else -> logger.info("Not using sort by SCORE")
         }
 
-
     }
 
     private fun getSortedScores(context: SearchContext) =

@@ -3,7 +3,6 @@ package br.com.blz.buybox.usecase.processors
 import br.com.blz.buybox.domain.BuyBox
 import br.com.blz.buybox.domain.SearchContext
 import br.com.blz.buybox.domain.toMerchants
-import br.com.blz.buybox.usecase.processors.BuyBoxProcessors
 import org.springframework.core.annotation.Order
 import org.springframework.stereotype.Service
 
